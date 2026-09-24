@@ -12,8 +12,12 @@ alt="description" width="1000" />
 alt="description" width="300" />
 </p>
 
+<p align="center">
+$$\color{#813a9a} \text{˚ infoooooo infooooooooooo‧°}$$
+$$\color{#813a9a} \text{˚ info infoooooooooooooo info :3.‧°}$$
 
 
+  
 <img width="400" height="400" alt="ming" src="https://github.com/user-attachments/assets/c1682971-2d4e-4cd9-8e36-508708ccf767" />
 
 

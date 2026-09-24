@@ -4,7 +4,7 @@ alt="description" width="1000" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=protectioncharm&color=C780D9&label=YURI!&style=upper" alt="Vamps Counter" />
+  <img src="https://komarev.com/ghpvc/?username=protectioncharm&color=C780D9&label=doffy!&style=upper" alt="Vamps Counter" />
 </p>
 
 <p align="center">

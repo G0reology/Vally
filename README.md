@@ -19,7 +19,7 @@ $$\color{#813a9a} \text{˚ info infoooooooooooooo info :3.‧°}$$
 
   <p align="center">
 <img src="https://github.com/user-attachments/assets/a3e5b31c-a3f8-4e72-b6ff-e4da75505fbf" 
-alt="description" width="300" />
+alt="description" width="1000" />
 </p>
 
 

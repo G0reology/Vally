@@ -34,6 +34,15 @@ alt="description" width="1000" />
 $$\color{#E89EB8} \text{˚ infoooooo infooooooooooo‧°}$$
 $$\color{#E89EB8} \text{˚ info infoooooooooooooo info :3.‧°}$$
 
- 
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/7dc0cd0e-ff25-44e4-85b8-0c8ed7af4807" 
+alt="description" width="1000" /> 
+<img src="https://github.com/user-attachments/assets/ab4c7d20-809a-4b18-83bf-9943133ab8b5" 
+alt="description" width="1000" />
+
+
+
+ <img width="400" height="31" alt="val" src="https://github.com/user-attachments/assets/17b22401-492b-4baa-9614-bf24b86da8c1" />
+
 
 

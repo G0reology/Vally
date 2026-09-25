@@ -24,9 +24,10 @@ $$\color{#E89EB8} \text{˚ info infoooooooooooooo info :3.‧°}$$
 
 
   <p align="center">
-<img src="https://github.com/user-attachments/assets/a3e5b31c-a3f8-4e72-b6ff-e4da75505fbf" 
+<img src="https://github.com/user-attachments/assets/e97b69c3-3400-413a-8ac5-703fa9377787" 
 alt="description" width="1000" />
 </p>
+
 
 
 <p align="center">

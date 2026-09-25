@@ -36,9 +36,9 @@ $$\color{#E89EB8} \text{˚ info infoooooooooooooo info :3.‧°}$$
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/7dc0cd0e-ff25-44e4-85b8-0c8ed7af4807" 
-alt="description" width="300" /> 
+alt="description" width="70" /> 
 <img src="https://github.com/user-attachments/assets/ab4c7d20-809a-4b18-83bf-9943133ab8b5" 
-alt="description" width="300" />
+alt="description" width="70" />
 
 
  <p align="center">

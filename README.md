@@ -28,16 +28,11 @@ $$\color{#E89EB8} \text{˚ info infoooooooooooooo info :3.‧°}$$
 alt="description" width="1000" />
 </p>
 
+
 <p align="center">
 $$\color{#E89EB8} \text{˚ infoooooo infooooooooooo‧°}$$
 $$\color{#E89EB8} \text{˚ info infoooooooooooooo info :3.‧°}$$
 
-  <p align="center">
-<img src="https://github.com/user-attachments/assets/2ab97b09-d61a-43b3-8531-bbb3f5bffa48" 
-alt="description" width="300" />
-</p>
-
-
-
+ 
 
 

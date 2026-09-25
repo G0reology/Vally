@@ -8,7 +8,7 @@ alt="description" width="1000" />
   <img src="https://komarev.com/ghpvc/?username=protectioncharm&color=E89EB8&label=doffy!&style=upper" alt="Vamps Counter" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gaegu&size=105&duration=4500&pause=1000&color=FFB2D7&center=true&width=2000&height=430&lines=Please+don't+call+don't+try+to+contact+me!;I+don't+want+to+do+karaoke!;I'm+getting+over+you!;You+don't+know+but+you+are+hurting+me!;I+need+to+do+my+own+thing%2C+you+see!;I'm+getting+over+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gaegu&size=105&duration=4500&pause=1000&color=FFB2D7&center=true&width=2000&height=430&lines=Anything+you+want!+happy+birthday!)](https://git.io/typing-svg)
 
 
 
